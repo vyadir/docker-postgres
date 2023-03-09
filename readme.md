@@ -1,1 +1,1 @@
-Orquestación de 2 imágenes independientes mediante docker compose.
+Postgres Database UP from docker compose.
