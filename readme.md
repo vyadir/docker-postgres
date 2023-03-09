@@ -1,1 +1,1 @@
-Postgresql database orchestation with docker compose.
+Postgresql database orchestration with docker compose.
